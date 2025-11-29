@@ -1,0 +1,7 @@
+2024210 | ET Scan SSH Bruteforce | Brute force | High severity
+2002915 | ET WEB_SERVER CVE Exploit Attempt | Web exploit | High severity
+2030571 | ET DOS NTP Monlist | Reflective amplification | Medium severity
+2010935 | ET EXPLOIT Shellcode Exec Attempt | Payload delivery | High severity
+2027867 | ET MALWARE Mirai Variant Activity | Botnet | Critical
+2029558 | ET POLICY Suspicious User-Agent | Recon | Medium
+2034702 | ET CNC Known Botnet C2 Traffic | Command & Control | Critical
