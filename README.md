@@ -9,7 +9,7 @@ This project focuses on attacker behavior, botnet activity, network telemetry, a
 ## 📸 Dashboard Previews
 
 ### **T-Pot Landing Page**
-![T-Pot Landing Page](https://github.com/Anirudhx7/Live-Honeypot-Deployment-Threat-Intelligence-Analysis/blob/e3dfba2dc8bb8518e0f7745afbe8aae0d8938a1d/images/tpot-landing.png)
+![T-Pot Landing Page](https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis/blob/630f85610b99bbe0f00c66ba0356791fe1987600/images/tpot-landing.png)
 
 
 ### **Kibana Dashboards**
