@@ -166,9 +166,10 @@ Extracted:
 - Frequent ports & protocols  
 
 IOC files included:
-- `ioc-ips.txt`  
-- `ioc-useragents.txt`  
-- `ioc-suricata-sids.txt`  
+- <a href=https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis/blob/1ce35fd611f97e8c23a213546ebe8291642a9493/IOC/ioc-ips-detailed.txt>`ioc-ips.txt`  </a>
+- <a href=https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis/blob/1ce35fd611f97e8c23a213546ebe8291642a9493/IOC/ioc-useragents-detailed.txt>`ioc-useragents.txt`  </a>
+- <a href=https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis/blob/1ce35fd611f97e8c23a213546ebe8291642a9493/IOC/ioc-suricata-sids-detailed.txt>`ioc-suricata-sids.txt`</a>
+- <a href=https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis/blob/1ce35fd611f97e8c23a213546ebe8291642a9493/IOC/oc-ips-enriched.csv>`oc-ips-enriched.csv`    </a>
 
 ### **MITRE ATT&CK Mapping**
 | Behavior | Technique |
@@ -184,7 +185,7 @@ IOC files included:
 # 📘 Threat Intelligence Report (Full)
 See:  
 ```
-/Reports/Threat_Intel_Report.md
+ /Reports/Threat_Intel_Report.md 
 ```
 
 Contains:
